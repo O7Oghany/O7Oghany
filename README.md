@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Muhammed, an SRE and Cloud Architect specialized in Kubernetes, Go, and cloud migration.
-- 👀 I'm interested in distributed systems, cloud-native technologies, and event-driven architectures.
-- 🌱 I’m currently diving deeper into AKS (Azure Kubernetes Service) and honing my skills in Terraform.
-- 💞️ I'm looking to collaborate on open-source projects that focus on cloud scalability and reliability.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelmmu/).
+- Hi, I’m Muhammed, an SRE and Cloud Architect specialized in Kubernetes, Go, and cloud migration.
+- I'm interested in distributed systems, cloud-native technologies, and event-driven architectures.
+- I’m currently diving deeper into AKS (Azure Kubernetes Service) and honing my skills in Terraform.
+- Reach me on [LinkedIn](https://www.linkedin.com/in/abdelmmu/).
 
 
 <!---
